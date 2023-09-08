@@ -2,7 +2,7 @@
 
 <div align="center" style="margin: 30px;">
   <a href="https://frvgs.com/">
-    <img src="https://cdn.frvgs.com/frvgs_header.svg" style="width:450px;" align="center" />
+    <img src="https://cdn.frvgs.com/frvgs_header_new.svg" style="width:450px;" align="center" />
   </a>
   <br />
   <div align="center">
