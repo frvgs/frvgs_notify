@@ -1,0 +1,192 @@
+/* Neon Pulse */
+.neon_pulse {
+   background: linear-gradient(to right, #B64589, #DC0073, #FF00F0, #8B34A4, #7036A7, #B64589);
+}
+/* Cyber Glow */
+.cyber_glow {
+   background: linear-gradient(to right, #00FFA6, #00F3FF, #A400FF, #FF00DB, #FF005B, #00FFA6);
+}
+/* Galactic Radiance */
+.galactic_radiance {
+   background: linear-gradient(to right, #7700FF, #D60EFF, #FF00B6, #FF6400, #FFD500, #7700FF);
+}
+/* Violet Veil */
+.violet_veil {
+   background: linear-gradient(to right, #5B00FF, #8C00FF, #C200FF, #ED00FF, #FF00C8, #5B00FF);
+}
+/* Luminescent Dive */
+.luminescent_dive {
+   background: linear-gradient(to right, #00C5FF, #8D00FF, #E500FF, #FF0081, #FF0013, #00C5FF);
+}
+/* Spectral Shift */
+.spectral_shift {
+   background: linear-gradient(to right, #FF007D, #9D00FF, #3A00FF, #007CFF, #00FF95, #FF007D);
+}
+/* Deep Space */
+.deep_space {
+   background: linear-gradient(to right, #5D26C1, #A17FE0, #59C173, #5D26C1, #A17FE0, #5D26C1);
+}
+/* Violet Visions */
+.violet_visions {
+   background: linear-gradient(to right, #9A48D0, #B66DDF, #E0AAF2, #B66DDF, #9A48D0, #9A48D0);
+}
+/* Lilac Luster */
+.lilac_luster {
+   background: linear-gradient(to right, #AC32E4, #7918F2, #4801FF, #6B0FD9, #AC32E4, #AC32E4);
+}
+/* Astral Aura */
+.astral_aura {
+   background: linear-gradient(to right, #4B0082, #7B68EE, #9400D3, #9932CC, #BA55D3, #4B0082);
+}
+/* Cosmic Dream */
+.cosmic_dream {
+   background: linear-gradient(to right, #4A148C, #7C4DFF, #9575CD, #673AB7, #D1C4E9, #4A148C);
+}
+/* Purple Haze */
+.purple_haze {
+   background: linear-gradient(to right, #673AB7, #BA68C8, #AB47BC, #9C27B0, #8E24AA, #673AB7);
+}
+/* Mystic Midnight */
+.mystic_midnight {
+   background: linear-gradient(to right, #220033, #3C0065, #530097, #6A00CC, #530097, #220033);
+}
+/* Galactic Shade */
+.galactic_shade {
+   background: linear-gradient(to right, #1A004D, #38008D, #4D00CC, #38008D, #1A004D, #1A004D);
+}
+/* Nightshade Nebula */
+.nightshade_nebula {
+   background: linear-gradient(to right, #140026, #30004C, #4D0073, #30004C, #140026, #140026);
+}
+/* Starry Velvet */
+.starry_velvet {
+   background: linear-gradient(to right, #0D0019, #260033, #3C004C, #260033, #0D0019, #0D0019);
+}
+/* Eclipse Essence */
+.eclipse_essence {
+   background: linear-gradient(to right, #00000E, #11001C, #2C0038, #11001C, #00000E, #00000E);
+}
+/* Phantom Purple */
+.phantom_purple {
+   background: linear-gradient(to right, #0A0014, #1D0026, #310039, #1D0026, #0A0014, #0A0014);
+}
+/* 1. Peach Pallet */
+.peach_pallet {
+   background: linear-gradient(to right, #FFDAB9, #FFB6C1, #FFA07A, #FFB6C1, #FFDAB9, #FFDAB9);
+}
+/* 2. Aquamarine Flow */
+.aquamarine_flow {
+   background: linear-gradient(to right, #7FFFD4, #40E0D0, #20B2AA, #48D1CC, #66CDAA, #7FFFD4);
+}
+/* 3. Lavender Dream */
+.lavender_dream {
+   background: linear-gradient(to right, #E6E6FA, #9370DB, #8A2BE2, #9400D3, #9932CC, #E6E6FA);
+}
+/* 4. Sunset Spectrum */
+.sunset_spectrum {
+   background: linear-gradient(to right, #FF4500, #FF6347, #FF7F50, #FF8C00, #FFA500, #FF4500);
+}
+/* 5. Emerald Essence */
+.emerald_essence {
+   background: linear-gradient(to right, #50C878, #20B2AA, #00FA9A, #3CB371, #48D1CC, #50C878);
+}
+/* 6. Rose Reverie */
+.rose_reverie {
+   background: linear-gradient(to right, #FFC0CB, #FF69B4, #FF1493, #FFB6C1, #FF69B4, #FFC0CB);
+}
+/* 7. Blue Lagoon */
+.blue_lagoon {
+   background: linear-gradient(to right, #5F9EA0, #20B2AA, #48D1CC, #40E0D0, #4682B4, #5F9EA0);
+}
+/* 8. Golden Glaze */
+.golden_glaze {
+   background: linear-gradient(to right, #FFD700, #FFA500, #FF8C00, #FF6347, #FFA07A, #FFD700);
+}
+/* 9. Mauve Mirage */
+.mauve_mirage {
+   background: linear-gradient(to right, #E0B0FF, #9370DB, #8A2BE2, #9400D3, #9932CC, #E0B0FF);
+}
+/* 10. Crimson Cascade */
+.crimson_cascade {
+   background: linear-gradient(to right, #DC143C, #FF4500, #FF6347, #FF7F50, #FF8C00, #DC143C);
+}
+/* 11. Azure Arc */
+.azure_arc {
+   background: linear-gradient(to right, #007FFF, #1E90FF, #00BFFF, #87CEEB, #B0E0E6, #007FFF);
+}
+/* 12. Tropical Twist */
+.tropical_twist {
+   background: linear-gradient(to right, #32CD32, #ADFF2F, #7FFF00, #7CFC00, #32CD32, #32CD32);
+}
+/* 13. Violet Verve */
+.violet_verve {
+   background: linear-gradient(to right, #9400D3, #8A2BE2, #9370DB, #9932CC, #BA55D3, #9400D3);
+}
+/* 14. Amber Aura */
+.amber_aura {
+   background: linear-gradient(to right, #FFBF00, #FFA500, #FF8C00, #FF6347, #FF7F50, #FFBF00);
+}
+/* 15. Jade Journey */
+.jade_journey {
+   background: linear-gradient(to right, #00A86B, #3CB371, #00FA9A, #20B2AA, #48D1CC, #00A86B);
+}
+/* 16. Ruby Ripple */
+.ruby_ripple {
+   background: linear-gradient(to right, #E0115F, #FF1493, #FF4500, #FF6347, #FF4500, #E0115F);
+}
+/* 17. Sapphire Swirl */
+.sapphire_swirl {
+   background: linear-gradient(to right, #0F52BA, #4682B4, #1E90FF, #00BFFF, #87CEEB, #0F52BA);
+}
+/* 18. Opal Orbit */
+.opal_orbit {
+   background: linear-gradient(to right, #A8C3BC, #7FFFD4, #20B2AA, #48D1CC, #66CDAA, #A8C3BC);
+}
+/* 19. Topaz Transition */
+.topaz_transition {
+   background: linear-gradient(to right, #FFC125, #FFA500, #FF8C00, #FF6347, #FF4500, #FFC125);
+}
+/* 20. Peridot Pulse */
+.peridot_pulse {
+   background: linear-gradient(to right, #ABE338, #ADFF2F, #7FFF00, #7CFC00, #00FA9A, #ABE338);
+}
+/* 21. Coral Curve */
+.coral_curve {
+   background: linear-gradient(to right, #FF6B6B, #FF6347, #FF4500, #FF6347, #FF6B6B, #FF6B6B);
+}
+/* 22. Garnet Glide */
+.garnet_glide {
+   background: linear-gradient(to right, #8B0000, #FF4500, #FF6347, #FF8C00, #FFA07A, #8B0000);
+}
+/* 23. Amethyst Arc */
+.amethyst_arc {
+   background: linear-gradient(to right, #8A2BE2, #9370DB, #9400D3, #9932CC, #BA55D3, #8A2BE2);
+}
+/* 24. Onyx Overlay */
+.onyx_overlay {
+   background: linear-gradient(to right, #36454F, #5F9EA0, #4682B4, #1E90FF, #00BFFF, #36454F);
+}
+/* 25. Malachite Motion */
+.malachite_motion {
+   background: linear-gradient(to right, #0A7E8C, #20B2AA, #40E0D0, #48D1CC, #00CED1, #0A7E8C);
+}
+/* 26. Quartz Quest */
+.quartz_quest {
+   background: linear-gradient(to right, #51484F, #8B0000, #8A2BE2, #9400D3, #9932CC, #51484F);
+}
+/* 27. Rhodolite Rhythm */
+.rhodolite_rhythm {
+   background: linear-gradient(to right, #DE3163, #FF4500, #FF6347, #FF8C00, #FF4500, #DE3163);
+}
+/* 28. Spinel Spin */
+.spinel_spin {
+   background: linear-gradient(to right, #8E4585, #8A2BE2, #9400D3, #9932CC, #8A2BE2, #8E4585);
+}
+/* 29. Moonstone Muse */
+.moonstone_muse {
+   background: linear-gradient(to right, #C0C0C0, #B0E0E6, #4682B4, #1E90FF, #87CEEB, #C0C0C0);
+}
+/* 30. Pearl Pulse */
+.pearl_pulse {
+   background: linear-gradient(to right, #EAE0C8, #FFDAB9, #FFA07A, #FFB6C1, #FFE4B5, #EAE0C8);
+}

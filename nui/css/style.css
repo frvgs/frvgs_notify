@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;800&display=swap");
+* {
+   border: 0;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body {
+   width: 100vw;
+   height: 100vh;
+   overflow: hidden;
+   font-family: "Poppins", sans-serif;
+   font-weight: 500;
+   color: rgba(255, 255, 255, 0.77);
+   text-shadow: rgba(255, 255, 255, 0.4) 0 0 10px;
+}
+.material-symbols-outlined {
+   font-variation-settings: "FILL"0, "wght"400, "GRAD"0, "opsz"48;
+}
+#root {
+   display: grid;
+   justify-content: center;
+   animation: slideInDown 400ms ease-in-out;
+   margin-top: 20rem;
+}
+/*----------------------------------------------------*/
+#root .notify {
+   display: flex;
+   position: relative;
+   align-items: center;
+   flex: auto;
+   border-radius: 0.5rem;
+   min-width: 20rem;
+   width: fit-content;
+   height: 3.5rem;
+   margin-top: 0.5rem;
+   box-shadow: 0px 0px 13px 0px rgba(0, 0, 0, 0.75);
+   background: linear-gradient(to right, #fd004c, #fe9000, #fff020, #3edf4b, #3363ff, #b102b7, #fd004c);
+   animation: rainbow 22s infinite linear alternate;
+}
+#root .innerText {
+   background: rgba(37, 38, 43, 1);
+   border-radius: 0.35rem;
+   box-shadow: 
+   0 1px 1px rgba(0,0,0,0.3),
+   0 2px 2px rgba(0,0,0,0.08),
+   0 4px 4px rgba(0,0,0,0.06),
+   0 8px 8px rgba(0,0,0,0.04),
+   0 16px 16px rgba(0,0,0,0.02);
+   min-width: 20rem;
+   padding-top: 0.85rem;
+   padding-bottom: 0.85rem;
+   margin: 0.15rem;
+}
+/*----------------------------------------------------*/
+#root .icon {
+   float: left;
+   margin-left: 0.5rem;
+}
+#root .text {
+   display: inline-block;
+   margin-left: 0.5rem;
+}
+/*----------------------------------------------------*/
+#root .info {
+   background: linear-gradient(to right, #9A48D0, #B66DDF, #E0AAF2, #B66DDF, #9A48D0, #9A48D0);
+   filter: drop-shadow(0 0 1px rgba(154, 72, 208, 0.1)) drop-shadow(0 0 5px rgba(154, 72, 208, 0.2));
+}
+#root .success {
+   background: linear-gradient(to right, #00A86B, #3CB371, #00FA9A, #20B2AA, #48D1CC, #00A86B);
+   filter: drop-shadow(0 0 1px rgba(0, 168, 107, 0.1)) drop-shadow(0 0 5px rgba(0, 168, 107, 0.2));
+}
+#root .error {
+   background: linear-gradient(to right, #FFBF00, #FFA500, #FF8C00, #FF6347, #FF7F50, #FFBF00);
+   filter: drop-shadow(0 0 1px rgba(255, 191, 0, 0.1)) drop-shadow(0 0 5px rgba(255, 191, 0, 0.2));
+}
+#root .simple {
+   background: linear-gradient(to right, #FFDAB9, #FFB6C1, #FFA07A, #FFB6C1, #FFDAB9, #FFDAB9);
+   filter: drop-shadow(0 0 1px rgba(255, 218, 185, 0.1)) drop-shadow(0 0 5px rgba(255, 218, 185, 0.2));
+}
+#root .rainbow {
+   background: linear-gradient(to right, #fd004c, #fe9000, #fff020, #3edf4b, #3363ff, #b102b7, #fd004c);
+   filter: drop-shadow(0 0 1px rgba(253, 0, 76, 0.1)) drop-shadow(0 0 5px rgba(253, 0, 76, 0.2));
+}
+/*----------------------------------------------------*/
+@keyframes slideInDown {
+   from {
+      transform: translate3d(0, -100%, 0);
+      visibility: visible;
+   }
+   to {
+      transform: translate3d(0, 0, 0);
+   }
+}
+@keyframes rainbow {
+   100% {
+      background-position-x: 4000px;
+   }
+}
+/*----------------------------------------------------*/
+/*4K resolution 2160px UI Rescale*/
+@media only screen and (min-height: 2160px) {
+   #root {
+      transform: scale(1.6);
+      margin-top: 1.2rem;
+   }
+}
