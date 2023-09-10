@@ -7,7 +7,7 @@
   <br />
   <div align="center">
     <a href="https://frvgs.com">Website</a> |
-    <a href="https://discord.gg/">Discord</a> |
+    <a href="https://discord.gg/wHhg6Zgbsa">Discord</a> |
     <a href="https://forum.cfx.re/u/frvgs">Forum</a> |
     <a href="https://docs.frvgs.com/">Docs</a>
   </div>
@@ -24,9 +24,9 @@
 
 </div>
 
-[![Video Preview](https://cdn.frvgs.com/core_preview/notify_preview.png)](https://www.youtube.com/watch?v=o-M2wjaZfoo)
+[![Image Preview](https://cdn.frvgs.com/core_preview/notify_preview.png)](https://www.youtube.com/watch?v=o-1A6tiWjiMk8)
 
-[video-preview](https://youtube.com/watch?v=o-M2wjaZfoo)
+[![Video Preview](https://cdn.frvgs.com/youtube/preview_thumb.png)](https://www.youtube.com/watch?v=o-1A6tiWjiMk8)
 
 ## ✨ Features
 
@@ -46,4 +46,6 @@
 ### If you're already using esx_notify :
 You can then simply replace the `esx_notify/nui/style.css` file with the one from this repository.
 
+## 🛟 Support
 
+Join the [discord](https://discord.gg/wHhg6Zgbsa)  if you need support or custom UI design for your server.
