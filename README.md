@@ -26,7 +26,7 @@
 
 [![Image Preview](https://cdn.frvgs.com/core_preview/notify_preview.png)](https://www.youtube.com/watch?v=1A6tiWjiMk8)
 
-[![Video Preview](https://cdn.frvgs.com/youtube/preview_thumb_new.png)](https://www.youtube.com/watch?v=1A6tiWjiMk8)
+[![Video Preview](https://cdn.frvgs.com/youtube/preview_thumb_new.jpg)](https://www.youtube.com/watch?v=1A6tiWjiMk8)
 
 ## ✨ Features
 
